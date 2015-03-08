@@ -1,0 +1,19 @@
+# Site settings
+title: Khem
+email: khyamay@gmail.com
+description: "Web Developer"
+url: "http://iamkhem.com" # the base hostname & protocol for your site
+twitter_username: khheem
+github_username:  khyamay
+
+owner:
+  name:          Khemraj Thapa
+  bio:           "I am web-developer and currently working at myorb.com"
+  email:         khyamay@gmail.com
+  twitter:       khheem
+  github:        khyamay
+  linkedin:      khemrajthapa
+
+
+# Build settings
+markdown: kramdown
