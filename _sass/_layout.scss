@@ -189,7 +189,13 @@
 .description p {
   font-family: 'PT Sans', Helvetica, arial;
   text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.4);
-  font-size: 3em; }
+  font-size: 3em; 
+
+@include media-query($on-palm){
+    font-size: 2em;
+  }
+
+}
 
 .description .description-note {
   background: rgba(113, 98, 113, 0.3);
